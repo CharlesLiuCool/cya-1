@@ -1,0 +1,9 @@
+*Activity Description:* The expectations of SURCA were to prepare a poster and short presentation to showcase undergradate research developments. I worked on research with my lab related to Sequential Composition of Post-Quantum arguments of knowledge, and prepared both components.
+
+*Technical and Professional Decisions:* For both the presentation and poster, I decided to cut out on much of the technical detail, focusing mainly on impact while explaining the methodology at a high level. This is because many of the judges would likely not be in my field, and I wanted to explain my research to them comprehensibly. Also, since the presentation should be approximately 5 minutes, condensing and simplifying was the straightforward move. This was very difficult, however.
+
+*Contributions:* I was a part of frequent meetings with my lab where we bounced ideas to develop the framework and prove theorems. I also helped prove the case studies of particular protocols like Kilian and Sigma.  The presentation and poster were entirely prepared by myself.
+
+*Quality Assessment:* Although this was my first time attending this type of poster session, I believe I did pretty well. I was able to win the Crimson Award (highest distinction) in my section, and I believe I was very engaging and successful in communicating my research through my presentation and poster. In the future, I might make some small edits to the poster (courtesy to judge feedback) like emphasizing specific results such as the specific protocols we proved satisfy our framework.
+
+*Career Alignment:* This experience closely aligns with my career goals. As I hope to go on to a master's or PhD program, developing and presenting research will be a crucial skill to develop. SURCA offered the perfect environment for me to work on both aspects.
